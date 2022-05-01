@@ -1,12 +1,14 @@
-### Hi there, nice to meet you 👋
+# Hi there, nice to meet you 👋
+👩🏻‍🎓 I’m currently a student at Hack Reactor, super excited to start my career as a Software Engineer!
 
-##👩🏻‍🎓 I’m currently a student at Hack Reactor, and these are my interesting facts:
-- 🔭 I’m currently working on a fullstack application that has something to do with one of my hobbies: movies!
-- 📝 I’m currently learning Gatsby JS
+Here's some my interesting facts about me:
+- 👩🏻‍💻 I just finished a pretty cool project where I had to design, implement and deploy using AWS an API that supports an e-commerce application design by my peers at Hack Reactor
+- 🔭 I’m currently working on a fullstack application, and although it is still in the development stage, I can already say it will be related to one of my biggest hobbies: 🎬 movies 🎬
+- ✍🏻 I’m currently learning Gatsby JS, and Firebase for this project 😅
 - ⚡️ Fun fact: I love plants and I've been obsessed with creating moss terrariums 🌳
-- 😄 Pronouns: she / her / hers 
+- 👉🏻 Pronouns: she / her / hers 
 
-# 📫 Let's stay in touch:
+## 📫 Let's stay in touch:
 [][]
 
 
