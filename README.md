@@ -13,7 +13,7 @@
 
 [System Design Capstone](https://github.com/NutmegGang)
 
-[Scriptly](https://github.com/SteveOceanProject)
+[Scriptly](http://scriptly.us/)
 
 ### 📫 Let's stay in touch:
 
