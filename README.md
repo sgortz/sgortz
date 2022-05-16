@@ -15,6 +15,19 @@
 
 [Scriptly](http://scriptly.us/)
 
+### 📈 Stats
+
+![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgortz&show_icons=true)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgortz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Wakatime
+
+[![Sabrinas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sgortz)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Let's stay in touch:
 
 [My Linkedin Profile](https://www.linkedin.com/in/sabrina-gortz/)
