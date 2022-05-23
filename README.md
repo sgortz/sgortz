@@ -1,5 +1,5 @@
  # Welcome! ✨
-👋 Hello, my name is Sabrina, I’m currently a student at Hack Reactor, and I'm super excited to start my career as a Software Engineer!
+👋 Hello, my name is Sabrina, I just graduated at Hack Reactor, and can't wait to start my career as a Software Engineer!
 
 ### Here's some interesting facts about me:
 - 👌 I just finished a pretty cool project where I had to design, implement, and deploy -- using AWS -- an API that supports an e-commerce application designed by my peers at Hack Reactor
