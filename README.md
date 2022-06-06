@@ -1,18 +1,15 @@
  # Welcome! ✨
-👋 Hello, my name is Sabrina, I just graduated at Hack Reactor, and can't wait to start my career as a Software Engineer!
+👋 Hello, there! I'm Sabrina, and I'm a full-stack software engineer passionate about projects that take me out of my comfort zone and challenge me every day to become a better professional. I also love working collaboratively, so if you're looking for someone to work as a team, let's chat!
 
 ### Here's some interesting facts about me:
-- 👌 I just finished a pretty cool project where I had to design, implement, and deploy -- using AWS -- an API that supports an e-commerce application designed by my peers at Hack Reactor
+- 🇧🇷 I'm from Brazil but currently, I live in Connecticut, US.
+- 👌 I just finished a pretty cool project where I had to create a RESTful API that supports an e-commerce application designed by my peers at Hack Reactor. It was also my first time deploying an application using AWS.
 - 👽 I’m currently working on a fullstack application, and although it is still in the development stage, I can already say it will be related to one of my biggest hobbies: 🎬 *movies* 🎬
-- 😅 I’m learning Gatsby JS, and Firebase for this project
-- 🌳 Fun fact: I love plants and I've been obsessed with creating moss terrariums
-- 👍 My pronouns are: she, her, hers 
+- 🌳 I love plants and I've been learning about tree grafting. Who knows, maybe soon I'll get to pick up lemons and avos from my own trees.
 
-### Check out my work!
+### Check out my work below
 [Z. Narrows](https://github.com/RFE2202-FEC-Zion-Narrows/FEC-Project)
-
 [System Design Capstone](https://github.com/NutmegGang)
-
 [Scriptly](http://scriptly.us/)
 
 ### 📈 Stats
@@ -23,14 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgortz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📫 Let's stay in touch.
 
-### Wakatime
-
-[![Sabrinas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sgortz)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 Let's stay in touch:
-
-[My Linkedin Profile](https://www.linkedin.com/in/sabrina-gortz/)
+Please feel free to reach out at my [Linkedin page](https://www.linkedin.com/in/sabrina-gortz/).
 
 
 <h2 align="left"> Languages and Tools:</h2>
