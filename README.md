@@ -1,26 +1,43 @@
  # Welcome! ✨
 👋 Hello, there! I'm Sabrina, and I'm a full-stack software engineer passionate about projects that take me out of my comfort zone and challenge me every day to become a better professional. I also love working collaboratively, so if you're looking for someone to work as a team, let's chat!
 
-### Here's some interesting facts about me:
+
+## Here's some interesting facts about me:
 - 🇧🇷 I'm from Brazil but currently, I live in Connecticut, US.
 - 👌 I just finished a pretty cool project where I had to create a RESTful API that supports an e-commerce application designed by my peers at Hack Reactor. It was also my first time deploying an application using AWS.
 - 👽 I’m currently working on a fullstack application, and although it is still in the development stage, I can already say it will be related to one of my biggest hobbies: 🎬 *movies* 🎬
 - 🌳 I love plants and I've been learning about tree grafting. Who knows, maybe soon I'll get to pick up lemons and avos from my own trees.
 
-### Check out my work below
-[Z. Narrows](https://github.com/RFE2202-FEC-Zion-Narrows/FEC-Project)
-[System Design Capstone](https://github.com/NutmegGang)
-[Scriptly](http://scriptly.us/)
 
-### 📈 Stats
+## Current Projects
+- <h4><strong> <a href="https://github.com/RFE2202-FEC-Zion-Narrows/FEC-Project">Z. Narrows</a></strong></h4>
+__Tech Stack:__ React | CSS | Axios | Express | Webpack | Babel | Jest
+
+A fully responsive e-commerce application that provides information over a broad range of products. Responsible for designing and implementing the product overview section.
+
+- <h4><strong> <a href="https://github.com/NutmegGang">System Design Capstone</a></strong></h4>
+__Tech Stack:__ Node.js | Express | Postgres | Artillery | Loader.io | AWS
+
+This application was made to support the frontend of an online retail store. The goal of this project is to replace the existing API with a backend system that can support the full data set for the project and can scale to meet the demands of production traffic.
+
+
+- <h4><strong> <a href="https://github.com/NutmegGang">Scriptly</a></strong></h4>
+__Tech Stack:__ React | Recoil | Bootstrap | CSS | Express | Firebase | MongoDB | Webpack | Babel | Jest
+
+Scriptly is web application to help you get a tone for your speeches in real-time.
+
+
+## 📈 Stats
 
 ![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgortz&show_icons=true)
 
-### Top Languages
+
+## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgortz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📫 Let's stay in touch.
+
+## 📫 Let's stay in touch
 
 Please feel free to reach out at my [Linkedin page](https://www.linkedin.com/in/sabrina-gortz/).
 
