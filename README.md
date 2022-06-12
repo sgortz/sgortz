@@ -39,18 +39,86 @@ Scriptly is web application to help you get a tone for your speeches in real-tim
 
 ## 📫 Let's stay in touch
 
-Please feel free to reach out at my [Linkedin page](https://www.linkedin.com/in/sabrina-gortz/).
+![Linkedin][linkedin-badge]
 
 
-<h2 align="left"> Languages and Tools:</h2>
-<h3 align="center">Frontend</h3>
-<p align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Languages and Tools
 
-<h3 align="center">Backend</h3>
-<p align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### Frontend Tools
 
-<h3 align="center">Testing</h3>
-<p align="center"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
+![Javascript][javascript-badge]
+![HTML5][html-badge]
+![CSS3][css-badge]
+![React][react-badge]
+![Typescript][typescript-badge]
+![Redux][redux-badge]
+![Bootstrap][bootstrap-badge]
+![Tailwind][tailwind-badge]
 
-<h3 align="center">Deployment / Developer Tools</h3>
-<p align="center"> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="80" height="80"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+### Design & Wireframes
+
+![Figma][figma-badge]
+![Photoshop][photoshop-badge]
+
+
+### Backend Tools
+
+![Node][node-badge]
+![Express][express-badge]\
+![MongoDB][mongodb-badge]
+![Postgres][postgres-badge]
+![MySQL][mysql-badge]
+
+
+### Testing Frameworks
+
+![Jest][jest-badge]
+![Mocha][mocha-badge]
+![Chai][chai-badge]
+![Jasmine][jasmine-badge]
+
+
+### Developer Tools & Deployment
+![Visual Studio Code][vs-code-badge]\
+![Webpack][webpack-badge]
+![Babel][babel-badge]
+![Vite][vite-badge]
+![Postman][postman-badge]\
+![Netlify][netlify-badge]
+![AWS][aws-badge]
+![Google Cloud][google-cloud-badge]
+![Heroku][heroku-badge]
+
+
+
+[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/sabrina-gortz/
+[javascript-badge]: https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=F7DF1E&&style=for-the-badge
+[html-badge]: https://img.shields.io/badge/-Html5-white?logo=html5&logoColor=E34F26&style=for-the-badge
+[css-badge]: https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=for-the-badge
+[react-badge]: https://img.shields.io/badge/-React-white?logo=react&logoColor=61DAFB&style=for-the-badge
+[typescript-badge]: https://img.shields.io/badge/-Typescript-white?logo=typescript&logoColor=3178C6&style=for-the-badge
+[bootstrap-badge]: https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge
+[Tailwind-badge]: https://img.shields.io/badge/-Tailwind%20CSS-white?logo=tailwind-css&logoColor=06B6D4&style=for-the-badge
+[redux-badge]: https://img.shields.io/badge/-Redux-white?logo=redux&logoColor=764ABC&style=for-the-badge
+[figma-badge]: https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=F24E1E&style=for-the-badge
+[photoshop-badge]: https://img.shields.io/badge/-Adobe%20Photoshop-white?logo=adobe-photoshop&logoColor=31A8FF&style=for-the-badge
+[node-badge]: https://img.shields.io/badge/-Nodejs-white?logo=node.js&logoColor=339933&style=for-the-badge
+[express-badge]: https://img.shields.io/badge/-Express-white?logo=express&logoColor=black&style=for-the-badge
+[mongodb-badge]: https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=47A248&style=for-the-badge
+[postgres-badge]: https://img.shields.io/badge/-PostgreSQL-white?logo=postgresql&logoColor=4169E1&style=for-the-badge
+[mysql-badge]: https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=4479A1&style=for-the-badge
+[jest-badge]: https://img.shields.io/badge/-Jest-white?logo=jest&logoColor=C21325&style=for-the-badge
+[mocha-badge]: https://img.shields.io/badge/-Mocha-white?logo=mocha&logoColor=8D6748&style=for-the-badge
+[chai-badge]: https://img.shields.io/badge/-Chai-white?logo=chai&logoColor=A30701&style=for-the-badge
+[jasmine-badge]: https://img.shields.io/badge/-Jasmine-white?logo=jasmine&logoColor=8A4182&style=for-the-badge
+[vs-code-badge]: https://img.shields.io/badge/-Visual%20Studio%20Code-white?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge
+[webpack-badge]: https://img.shields.io/badge/-Webpack-white?logo=webpack&logoColor=8DD6F9&style=for-the-badge
+[babel-badge]: https://img.shields.io/badge/-Babel-white?logo=babel&logoColor=F9DC3E&style=for-the-badge
+[vite-badge]: https://img.shields.io/badge/-Vite-white?logo=vite&logoColor=FCBD16&style=for-the-badge
+[postman-badge]: https://img.shields.io/badge/-Postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge
+[netlify-badge]: https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=00C7B7&style=for-the-badge
+[aws-badge]: https://img.shields.io/badge/-Amazon%20AWS-white?logo=amazon-aws&logoColor=FF9900&style=for-the-badge
+[google-cloud-badge]: https://img.shields.io/badge/-Google%20Cloud-white?logo=google-cloud&logoColor=4285F4&style=for-the-badge
+[heroku-badge]: https://img.shields.io/badge/-Heroku-white?logo=heroku&logoColor=79589F&style=for-the-badge
