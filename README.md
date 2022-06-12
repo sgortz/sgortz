@@ -39,7 +39,7 @@ Scriptly is web application to help you get a tone for your speeches in real-tim
 
 ## 📫 Let's stay in touch
 
-![Linkedin][linkedin-badge]
+[![Linkedin][linkedin-badge]][linkedin-url]
 
 
 ## Languages and Tools
