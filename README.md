@@ -47,11 +47,12 @@ Scriptly is web application to help you get a tone for your speeches in real-tim
 ### Frontend Tools
 
 ![Javascript][javascript-badge]
+![Python][python-badge]
 ![HTML5][html-badge]
-![CSS3][css-badge]
+![CSS3][css-badge]\
 ![React][react-badge]
 ![Typescript][typescript-badge]
-![Redux][redux-badge]
+![Redux][redux-badge]\
 ![Bootstrap][bootstrap-badge]
 ![Tailwind][tailwind-badge]
 
@@ -95,6 +96,7 @@ Scriptly is web application to help you get a tone for your speeches in real-tim
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/sabrina-gortz/
 [javascript-badge]: https://img.shields.io/badge/-Javascript-white?logo=javascript&logoColor=F7DF1E&&style=for-the-badge
+[python-badge]: https://img.shields.io/badge/-Python-white?logo=python&logoColor=F7DF1E&&style=for-the-badge
 [html-badge]: https://img.shields.io/badge/-Html5-white?logo=html5&logoColor=E34F26&style=for-the-badge
 [css-badge]: https://img.shields.io/badge/-CSS3-white?logo=css3&logoColor=1572B6&style=for-the-badge
 [react-badge]: https://img.shields.io/badge/-React-white?logo=react&logoColor=61DAFB&style=for-the-badge
