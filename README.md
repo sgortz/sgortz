@@ -11,7 +11,8 @@
 👩‍💻 Next on the study list: Go and Java.
 
 
-### 📫 Enough about me, what about you? Let's chat!
+
+## Enough about me, what about you? Let's chat!
  [![Linkedin][linkedin-badge]][linkedin-url]
 
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge
