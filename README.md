@@ -1,6 +1,6 @@
  # Welcome 👋
  
-🙋🏻‍♀️ I'm a frontend-driven, backend-enthusiast, and plant freak 🪴 software engineer, currently located in Connecticut.
+🙋🏻‍♀️ I'm a frontend-driven, backend-enthusiast, and plant freak 🪴 software engineer.
 
 🤍 I'm really passionate about projects that challenge me, and I dislike the feeling of being stuck in my comfort zone.
 
