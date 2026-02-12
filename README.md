@@ -1,13 +1,10 @@
  # Welcome 👋
  
-🙋🏻‍♀️ I'm a frontend-driven, backend-enthusiast, and plant freak 🪴 software engineer.
+🙋🏻‍♀️ I'm a full-stack software engineer.
 
 🤍 I'm really passionate about projects that challenge me, and I dislike the feeling of being stuck in my comfort zone.
 
-🌟 My tech stack: C#, JS and Python.
-
-👩‍💻 Next on the study list: Go and Java.
-
+🌟 My tech stack: C#, JS (React), Python, AWS.
 
 ## Enough about me, what about you? Let's chat!
  [![Linkedin][linkedin-badge]][linkedin-url]
